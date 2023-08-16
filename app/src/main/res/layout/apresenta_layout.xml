@@ -15,7 +15,7 @@
         />
 
     <TextView
-        android:id="@+id/mTituloFilme"
+        android:id="@+id/mTitulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -58,7 +58,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/mCategoria"
+            android:id="@+id/mNome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
@@ -86,7 +86,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/mDescricao"
+            android:id="@+id/mPosiçao"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
@@ -117,7 +117,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/mDescricao"
+            android:id="@+id/mTime"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
